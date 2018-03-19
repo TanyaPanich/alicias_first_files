@@ -1,0 +1,23 @@
+{
+  "name": "alicias_first_files",
+  "version": "1.0.0",
+  "description": "practicing FileSytem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanyaPanich/alicias_first_files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanyaPanich/alicias_first_files/issues"
+  },
+  "homepage": "https://github.com/TanyaPanich/alicias_first_files#readme",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
+}
